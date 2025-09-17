@@ -12,7 +12,7 @@ Each project lives in its own folder and can be run independently.
 A simple React app that displays a menu of pizzas with details like name, ingredients, price, and availability.  
 Built to practice props, component composition, and conditional rendering in React.
 
-![Pizza Menu Screenshot](./pizza-menu/demo.png)
+![Pizza Menu Screenshot](.\pizza-menu\public\demo.png)
 
 **How to run:**
 
@@ -27,7 +27,7 @@ npm start
 A reusable profile card component showcasing a person’s avatar, introduction, and skills.
 Built to practice component structure, props, and styling in React.
 
-![Profile Card Screenshot](./profile-card/demo.png)
+![Profile Card Screenshot](.\profile-card\public\demo.png)
 
 **How to run:**
 
